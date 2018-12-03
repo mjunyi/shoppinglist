@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">ShoppingListApp</string>
+    <string name="total_cost_of_shopping_list">Total Cost of Shopping List</string>
+    <string name="ok">OK</string>
+    <string name="quantity_x">Quantity: x</string>
+    <string name="food">Food</string>
+    <string name="cost_per_unit">Cost per unit: $</string>
+    <string name="electronics">Electronics</string>
+    <string name="clothing">Clothing</string>
+    <string name="misc">Misc</string>
+    <string name="shopping_item_unspecified">Shopping item type is unspecified</string>
+    <string name="shoppinglist_db">shoppinglist.db</string>
+    <string name="nil">NIL</string>
+    <string name="this_field_cannot_be_empty">This field cannot be empty</string>
+    <string name="edit_item_dialog">EDITITEMDIALOG</string>
+    <string name="total_cost_dialog">TOTALCOSTDIALOG</string>
+    <string name="runtime_execption">Activity does not implement the ShoppingItemHandlerInterface</string>
+    <string name="edit_shopping_item">Edit Shopping item</string>
+    <string name="money_sign">$</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_type">Item Type</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="already_purchased">Already purchased</string>
+    <string name="cost_per_unit_2">Cost per unit</string>
+    <string name="_0">$0</string>
+    <string name="delete">Delete</string>
+    <string name="view_item_details">VIEW ITEM DETAILS</string>
+    <string name="quantity_x15">Quantity: x15</string>
+    <string name="bread">Bread</string>
+    <string name="purchased">Purchased?</string>
+    <string name="android_shopping_list_app">Android Shopping List App</string>
+    <string name="add_item">Add Item</string>
+    <string name="current_cost">Current Cost</string>
+    <string name="delete_all">Delete All</string>
+
+    <string-array name="item_type_list">
+        <item>Food</item>
+        <item>Electronics</item>
+        <item>Clothing</item>
+        <item>Misc</item>
+    </string-array>
+</resources>
